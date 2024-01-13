@@ -1,0 +1,10 @@
+*{
+    text-decoration: none;
+    color: black;
+}
+#anchor_links{
+    text-decoration: none;  
+}
+table ,th , td {
+    border: 1px solid black;
+}
